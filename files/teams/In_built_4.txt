@@ -1,0 +1,42 @@
+Mew
+EVs: HP 252/atk 4/def 0/spA 0/spD 252/spd 0
+- Psychic
+- Fire Blast
+- Calm Mind
+- Soft-Boiled
+
+Gyarados
+EVs: HP 6/atk 252/def 252/spA 0/spD 0/spd 0
+- Dragon Dance
+- Stone Edge
+- Waterfall
+- Earthquake
+
+Metagross
+EVs: HP 112/atk 184/def 212/spA 0/spD 0/spd 0
+- Bullet Punch
+- Earthquake
+- Meteor Mash
+- Zen Headbutt
+
+Heatran
+EVs: HP 252/atk 252/def 4/spA 0/spD 0/spd 0
+- Flamethrower
+- Flash Cannon
+- Earth Power
+- Will-O-Wisp
+
+Blissey
+EVs: HP 252/atk 4/def 252/spA 0/spD 0/spd 0
+- Soft-Boiled
+- Toxic
+- Protect
+- Heal Bell
+
+Gengar
+EVs: HP 4/atk 252/def 252/spA 0/spD 0/spd 0
+- Shadow Ball
+- Thunderbolt
+- Sludge Wave
+- Will-O-Wisp
+

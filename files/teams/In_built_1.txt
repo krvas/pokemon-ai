@@ -1,0 +1,42 @@
+Cofagrigus
+EVs: HP 252/atk 4/def 252/spA 0/spD 0/spd 0
+- Calm Mind
+- Shadow Ball
+- Psychic
+- Will-O-Wisp
+
+Chandelure
+EVs: HP 252/atk 4/def 252/spA 0/spD 0/spd 0
+- Fire Blast
+- Shadow Ball
+- Energy Ball
+- Calm Mind
+
+Weavile
+EVs: HP 248/atk 252/def 8/spA 0/spD 0/spd 0
+- Ice Punch
+- Night Slash
+- Ice Shard
+- Poison Jab
+
+Blissey
+EVs: HP 252/atk 252/def 4/spA 0/spD 0/spd 0
+- Protect
+- Heal Bell
+- Seismic Toss
+- Soft-Boiled
+
+Dragonite
+EVs: HP 252/atk 4/def 252/spA 0/spD 0/spd 0
+- Dragon Dance
+- Dragon Claw
+- Extreme Speed
+- Aqua Tail
+
+Forretress
+EVs: HP 252/atk 4/def 252/spA 0/spD 0/spd 0
+- Gyro Ball
+- Toxic
+- Protect
+- Earthquake
+

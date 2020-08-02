@@ -1,0 +1,40 @@
+Chandelure
+EVs: HP 252/atk 4/def 252/spA 0/spD 0/spd 0
+- Fire Blast
+- Shadow Ball
+- Will-O-Wisp
+- Energy Ball
+
+Infernape
+EVs: HP 252/atk 4/def 252/spA 0/spD 0/spd 0
+- Fire Punch
+- Close Combat
+- Mach Punch
+- Thunder Punch
+
+Kingdra
+EVs: HP 248/atk 252/def 8/spA 0/spD 0/spd 0
+- Surf
+- Draco Meteor
+- Flash Cannon
+
+Blissey
+EVs: HP 252/atk 252/def 4/spA 0/spD 0/spd 0
+- Protect
+- Heal Bell
+- Seismic Toss
+- Soft-Boiled
+
+Crobat
+EVs: HP 252/atk 252/def 4/spA 0/spD 0/spd 0
+- Poison Fang
+- Acrobatics
+- Roost
+
+Weavile
+EVs: HP 252/atk 252/def 4/spA 0/spD 0/spd 0
+- Night Slash
+- Ice Punch
+- Ice Shard
+- Swords Dance
+

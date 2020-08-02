@@ -1,0 +1,25 @@
+1 1 1 1 1 1 1 1 1 1 1 1 5 0 1 1 5 1
+1 5 5 1 2 2 1 1 1 1 1 2 5 1 5 1 2 1
+1 2 5 1 5 1 1 1 2 1 1 1 2 1 5 1 1 1
+1 1 2 5 5 1 1 1 0 2 1 1 1 1 5 1 1 1
+1 5 2 1 5 1 1 5 2 5 1 5 2 1 5 1 5 1
+1 5 5 1 2 5 1 1 2 2 1 1 1 1 2 1 5 1 
+2 1 1 1 1 2 1 5 1 5 5 5 2 0 1 2 2 5 
+1 1 1 1 2 1 1 5 5 1 1 1 5 5 1 1 0 2 
+1 2 1 2 5 1 1 2 1 0 1 5 2 1 1 1 2 1
+1 1 1 5 2 1 2 1 1 1 1 2 5 1 1 1 5 1 
+1 1 1 1 1 1 2 2 1 1 5 1 1 1 1 0 5 1 
+1 5 1 1 2 1 5 5 1 5 2 1 1 5 1 2 5 5
+1 2 1 1 1 2 5 1 5 2 1 2 1 1 1 1 5 1 
+0 1 1 1 1 1 1 1 1 1 2 1 1 2 1 5 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 5 0
+1 1 1 1 1 1 5 1 1 1 2 1 1 2 1 5 1 5
+1 5 5 5 1 2 1 1 1 1 1 1 2 1 1 1 5 2
+1 5 1 1 1 1 2 5 1 1 1 1 1 1 2 2 5 1
+#ignore_rest
+
+This is the Pokemon type chart, copied from pokemondb
+https://pokemondb.net/type
+The order follows the order of the type chart in the image
+The numbers are multipliers to the damage done, 
+    except .5 -> 5 so that all lines have the same space

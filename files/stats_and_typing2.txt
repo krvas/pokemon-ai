@@ -1,0 +1,325 @@
+3,venusaur,grass poison,80 82 83 100 100 80
+6,charizard,fire flying,78 84 78 109 85 100
+9,blastoise,water,79 83 100 85 105 78
+12,butterfree,bug flying,60 45 50 90 80 70
+15,beedrill,bug poison,65 90 40 45 80 75
+18,pidgeot,normal flying,83 80 75 70 70 101
+20,raticate,normal,55 81 60 50 70 97
+34,nidoking,poison ground,81 102 77 85 75 85
+36,clefable,fairy,95 70 73 95 90 60
+38,ninetales,fire,73 76 75 81 100 100
+40,wigglytuff,normal fairy,140 70 45 85 50 45
+45,vileplume,grass poison,75 80 85 110 90 50
+47,parasect,bug grass,60 95 80 60 80 30
+49,venomoth,bug poison,70 65 60 90 75 90
+51,dugtrio,ground,35 100 50 50 70 120
+53,persian,normal,65 70 60 65 65 115
+55,golduck,water,80 82 78 95 80 85
+57,primeape,fighting,65 105 60 60 70 95
+59,arcanine,fire,90 110 80 100 80 95
+62,poliwrath,water fighting,90 95 95 70 90 70
+65,alakazam,psychic,55 50 45 135 95 120
+68,machamp,fighting,90 130 80 65 85 55
+71,victreebel,grass poison,80 105 65 100 70 70
+73,tentacruel,water poison,80 70 65 80 120 100
+76,golem,rock ground,80 120 130 55 65 45
+78,rapidash,fire,65 100 70 80 80 105
+80,slowbro,water psychic,95 75 110 100 80 30
+83,farfetchd,normal flying,52 90 55 58 62 60
+85,dodrio,normal flying,60 110 70 60 60 110
+87,dewgong,water ice,90 70 80 70 95 70
+89,muk,poison,105 105 75 65 100 50
+91,cloyster,water ice,50 95 180 85 45 70
+94,gengar,ghost poison,60 65 60 130 75 110
+97,hypno,psychic,85 73 70 73 115 67
+99,kingler,water,55 130 115 50 50 75
+101,electrode,electric,60 50 70 80 80 150
+103,exeggutor,grass psychic,95 95 85 125 75 55
+105,marowak,ground,60 80 110 50 80 45
+106,hitmonlee,fighting,50 120 53 35 110 87
+107,hitmonchan,fighting,50 105 79 35 110 76
+110,weezing,poison,65 90 120 85 70 60
+115,kangaskhan,normal,105 95 80 40 80 90
+119,seaking,water,80 92 65 65 80 68
+121,starmie,water psychic,60 75 85 100 85 115
+122,mr-mime,psychic fairy,40 45 65 100 120 90
+124,jynx,ice psychic,65 50 35 115 95 95
+127,pinsir,bug,65 125 100 55 70 85
+128,tauros,normal,75 100 95 40 70 110
+130,gyarados,water flying,95 125 79 60 100 81
+131,lapras,water ice,130 85 80 85 95 60
+132,ditto,normal,48 48 48 48 48 48
+134,vaporeon,water,130 65 60 110 95 65
+135,jolteon,electric,65 65 60 110 95 130
+136,flareon,fire,65 130 60 95 110 65
+139,omastar,rock water,70 60 125 115 70 55
+141,kabutops,rock water,60 115 105 65 70 80
+142,aerodactyl,rock flying,80 105 65 60 75 130
+143,snorlax,normal,160 110 65 65 110 30
+144,articuno,ice flying,90 85 100 95 125 85
+145,zapdos,electric flying,90 90 85 125 90 100
+146,moltres,fire flying,90 100 90 125 85 90
+149,dragonite,dragon flying,91 134 95 100 100 80
+151,mew,psychic,100 100 100 100 100 100
+154,meganium,grass,80 82 100 83 100 80
+157,typhlosion,fire,78 84 78 109 85 100
+160,feraligatr,water,85 105 100 79 83 78
+162,furret,normal,85 76 64 45 55 90
+164,noctowl,normal flying,100 50 50 86 96 70
+166,ledian,bug flying,55 35 50 55 110 85
+168,ariados,bug poison,70 90 70 60 70 40
+169,crobat,poison flying,85 90 80 70 80 130
+171,lanturn,water electric,125 58 58 76 76 67
+178,xatu,psychic flying,65 75 70 95 70 95
+181,ampharos,electric,90 75 85 115 90 55
+182,bellossom,grass,75 80 95 90 100 50
+184,azumarill,water fairy,100 50 80 60 80 50
+185,sudowoodo,rock,70 100 115 30 65 30
+186,politoed,water,90 75 75 90 100 70
+189,jumpluff,grass flying,75 55 70 55 95 110
+192,sunflora,grass,75 75 55 105 85 30
+195,quagsire,water ground,95 85 85 65 65 35
+196,espeon,psychic,65 65 60 130 95 110
+197,umbreon,dark,95 65 110 60 130 65
+199,slowking,water psychic,95 75 80 100 110 30
+201,unown,psychic,48 72 48 72 48 48
+202,wobbuffet,psychic,190 33 58 33 58 33
+203,girafarig,normal psychic,70 80 65 90 65 85
+205,forretress,bug steel,75 90 140 60 60 40
+206,dunsparce,normal,100 70 70 65 65 45
+208,steelix,steel ground,75 85 200 55 65 30
+210,granbull,fairy,90 120 75 60 60 45
+211,qwilfish,water poison,65 95 85 55 55 85
+212,scizor,bug steel,70 130 100 55 80 65
+213,shuckle,bug rock,20 10 230 10 230 5
+214,heracross,bug fighting,80 125 75 40 95 85
+217,ursaring,normal,90 130 75 75 75 55
+219,magcargo,fire rock,60 50 120 90 80 30
+222,corsola,water rock,65 55 95 65 95 35
+224,octillery,water,75 105 75 105 75 45
+225,delibird,ice flying,45 55 45 65 45 75
+226,mantine,water flying,85 40 70 80 140 70
+227,skarmory,steel flying,65 80 140 40 70 70
+229,houndoom,dark fire,75 90 50 110 80 95
+230,kingdra,water dragon,75 95 95 95 95 85
+232,donphan,ground,90 120 120 60 60 50
+234,stantler,normal,73 95 62 85 65 85
+235,smeargle,normal,55 20 35 20 45 75
+237,hitmontop,fighting,50 95 95 35 110 70
+241,miltank,normal,95 80 105 40 70 100
+242,blissey,normal,255 10 10 75 135 55
+243,raikou,electric,90 85 75 115 100 115
+244,entei,fire,115 115 85 90 75 100
+245,suicune,water,100 75 115 90 115 85
+248,tyranitar,rock dark,100 134 110 95 100 61
+251,celebi,psychic grass,100 100 100 100 100 100
+254,sceptile,grass,70 85 65 105 85 120
+257,blaziken,fire fighting,80 120 70 110 70 80
+260,swampert,water ground,100 110 90 85 90 60
+262,mightyena,dark,70 90 70 60 60 70
+264,linoone,normal,78 70 61 50 61 100
+267,beautifly,bug flying,60 70 50 100 50 65
+269,dustox,bug poison,60 50 70 50 90 65
+272,ludicolo,water grass,80 70 70 90 100 70
+275,shiftry,grass dark,90 100 60 90 60 80
+277,swellow,normal flying,60 85 60 75 50 125
+279,pelipper,water flying,60 50 100 95 70 65
+282,gardevoir,psychic fairy,68 65 65 125 115 80
+284,masquerain,bug flying,70 60 62 100 82 80
+286,breloom,grass fighting,60 130 80 60 60 70
+289,slaking,normal,150 160 100 95 65 100
+291,ninjask,bug flying,61 90 45 50 50 160
+292,shedinja,bug ghost,1 90 45 30 30 40
+295,exploud,normal,104 91 63 91 73 68
+297,hariyama,fighting,144 120 60 40 60 50
+301,delcatty,normal,70 65 65 55 55 90
+302,sableye,dark ghost,50 75 75 65 65 50
+303,mawile,steel fairy,50 85 85 55 55 50
+306,aggron,steel rock,70 110 180 60 60 50
+308,medicham,fighting psychic,60 60 75 60 75 80
+310,manectric,electric,70 75 60 105 60 105
+311,plusle,electric,60 50 40 85 75 95
+312,minun,electric,60 40 50 75 85 95
+313,volbeat,bug,65 73 75 47 85 85
+314,illumise,bug,65 47 75 73 85 85
+317,swalot,poison,100 73 83 73 83 55
+319,sharpedo,water dark,70 120 40 95 40 95
+321,wailord,water,170 90 45 90 45 60
+323,camerupt,fire ground,70 100 70 105 75 40
+324,torkoal,fire,70 85 140 85 70 20
+326,grumpig,psychic,80 45 65 90 110 80
+327,spinda,normal,60 60 60 60 60 60
+330,flygon,ground dragon,80 100 80 80 80 100
+332,cacturne,grass dark,70 115 60 115 60 55
+334,altaria,dragon flying,75 70 90 70 105 80
+335,zangoose,normal,73 115 60 60 60 90
+336,seviper,poison,73 100 60 100 60 65
+337,lunatone,rock psychic,90 55 65 95 85 70
+338,solrock,rock psychic,90 95 85 55 65 70
+340,whiscash,water ground,110 78 73 76 71 60
+342,crawdaunt,water dark,63 120 85 90 55 55
+344,claydol,ground psychic,60 70 105 70 120 75
+346,cradily,rock grass,86 81 97 81 107 43
+348,armaldo,rock bug,75 125 100 70 80 45
+350,milotic,water,95 60 79 100 125 81
+351,castform,normal,70 70 70 70 70 70
+352,kecleon,normal,60 90 70 60 120 40
+354,banette,ghost,64 115 65 83 63 65
+357,tropius,grass flying,99 68 83 72 87 51
+358,chimecho,psychic,75 50 80 95 90 65
+359,absol,dark,65 130 60 75 60 75
+362,glalie,ice,80 80 80 80 80 80
+365,walrein,ice water,110 80 90 95 90 65
+367,huntail,water,55 104 105 94 75 52
+368,gorebyss,water,55 84 105 114 75 52
+369,relicanth,water rock,100 90 130 45 65 55
+370,luvdisc,water,43 30 55 40 65 97
+373,salamence,dragon flying,95 135 80 110 80 100
+376,metagross,steel psychic,80 135 130 95 90 70
+377,regirock,rock,80 100 200 50 100 50
+378,regice,ice,80 50 100 100 200 50
+379,registeel,steel,80 75 150 75 150 50
+380,latias,dragon psychic,80 80 90 110 130 110
+381,latios,dragon psychic,80 90 80 130 110 110
+385,jirachi,steel psychic,100 100 100 100 100 100
+389,torterra,grass ground,95 109 105 75 85 56
+392,infernape,fire fighting,76 104 71 104 71 108
+395,empoleon,water steel,84 86 88 111 101 60
+398,staraptor,normal flying,85 120 70 50 60 100
+400,bibarel,normal water,79 85 60 55 60 71
+402,kricketune,bug,77 85 51 55 51 65
+405,luxray,electric,80 120 79 95 79 70
+407,roserade,grass poison,60 70 65 125 105 90
+409,rampardos,rock,97 165 60 65 50 58
+411,bastiodon,rock steel,60 52 168 47 138 30
+413,wormadam,bug grass,60 59 85 79 105 36
+414,mothim,bug flying,70 94 50 94 50 66
+416,vespiquen,bug flying,70 80 102 80 102 40
+417,pachirisu,electric,60 45 70 45 90 95
+419,floatzel,water,85 105 55 85 50 115
+421,cherrim,grass,70 60 70 87 78 85
+423,gastrodon,water ground,111 83 68 92 82 39
+424,ambipom,normal,75 100 66 60 66 115
+426,drifblim,ghost flying,150 80 44 90 54 80
+428,lopunny,normal,65 76 84 54 96 105
+429,mismagius,ghost,60 60 60 105 105 105
+430,honchkrow,dark flying,100 125 52 105 52 71
+432,purugly,normal,71 82 64 64 59 112
+435,skuntank,poison dark,103 93 67 71 61 84
+437,bronzong,steel psychic,67 89 116 79 116 33
+441,chatot,normal flying,76 65 45 92 42 91
+442,spiritomb,ghost dark,50 92 108 92 108 35
+445,garchomp,dragon ground,108 130 95 80 85 102
+448,lucario,fighting steel,70 110 70 115 70 90
+450,hippowdon,ground,108 112 118 68 72 47
+452,drapion,poison dark,70 90 110 60 75 95
+454,toxicroak,poison fighting,83 106 65 86 65 85
+455,carnivine,grass,74 100 72 90 72 46
+457,lumineon,water,69 69 76 69 86 91
+460,abomasnow,grass ice,90 92 75 92 85 60
+461,weavile,dark ice,70 120 65 45 85 125
+462,magnezone,electric steel,70 70 115 130 90 60
+463,lickilicky,normal,110 85 95 80 95 50
+464,rhyperior,ground rock,115 140 130 55 55 40
+465,tangrowth,grass,100 100 125 110 50 50
+466,electivire,electric,75 123 67 95 85 95
+467,magmortar,fire,75 95 67 125 95 83
+468,togekiss,fairy flying,85 50 95 120 115 80
+469,yanmega,bug flying,86 76 86 116 56 95
+470,leafeon,grass,65 110 130 60 65 95
+471,glaceon,ice,65 60 110 130 95 65
+472,gliscor,ground flying,75 95 125 45 75 95
+473,mamoswine,ice ground,110 130 80 70 60 80
+474,porygon-z,normal,85 80 70 135 75 90
+475,gallade,psychic fighting,68 125 65 65 115 80
+476,probopass,rock steel,60 55 145 75 150 40
+477,dusknoir,ghost,45 100 135 65 135 45
+478,froslass,ice ghost,70 80 70 80 70 110
+479,rotom,electric ghost,50 50 77 95 77 91
+480,uxie,psychic,75 75 130 75 130 95
+481,mesprit,psychic,80 105 105 105 105 80
+482,azelf,psychic,75 125 70 125 70 115
+485,heatran,fire steel,91 90 106 130 106 77
+488,cresselia,psychic,120 70 120 75 130 85
+489,phione,water,80 80 80 80 80 80
+490,manaphy,water,100 100 100 100 100 100
+492,shaymin,grass,100 100 100 100 100 100
+494,victini,psychic fire,100 100 100 100 100 100
+497,serperior,grass,75 75 95 75 95 113
+500,emboar,fire fighting,110 123 65 100 65 65
+503,samurott,water,95 100 85 108 70 70
+505,watchog,normal,60 85 69 60 69 77
+508,stoutland,normal,85 110 90 45 90 80
+510,liepard,dark,64 88 50 88 50 106
+512,simisage,grass,75 98 63 98 63 101
+514,simisear,fire,75 98 63 98 63 101
+516,simipour,water,75 98 63 98 63 101
+518,musharna,psychic,116 55 85 107 95 29
+521,unfezant,normal flying,80 115 80 65 55 93
+523,zebstrika,electric,75 100 63 80 63 116
+526,gigalith,rock,85 135 130 60 80 25
+528,swoobat,psychic flying,67 57 55 77 55 114
+530,excadrill,ground steel,110 135 60 50 65 88
+531,audino,normal,103 60 86 60 86 50
+534,conkeldurr,fighting,105 140 95 55 65 45
+537,seismitoad,water ground,105 95 75 85 75 74
+538,throh,fighting,120 100 85 30 85 45
+539,sawk,fighting,75 125 75 30 75 85
+542,leavanny,bug grass,75 103 80 70 80 92
+545,scolipede,bug poison,60 100 89 55 69 112
+547,whimsicott,grass fairy,60 67 85 77 75 116
+549,lilligant,grass,70 60 75 110 75 90
+550,basculin,water,70 92 65 80 55 98
+553,krookodile,ground dark,95 117 80 65 70 92
+555,darmanitan,fire,105 140 55 30 55 95
+556,maractus,grass,75 86 67 106 67 60
+558,crustle,bug rock,70 105 125 65 75 45
+560,scrafty,dark fighting,65 90 115 45 115 58
+561,sigilyph,psychic flying,72 58 80 103 80 97
+563,cofagrigus,ghost,58 50 145 95 105 30
+565,carracosta,water rock,74 108 133 83 65 32
+567,archeops,rock flying,75 140 65 112 65 110
+569,garbodor,poison,80 95 82 60 82 75
+571,zoroark,dark,60 105 60 120 60 105
+573,cinccino,normal,75 95 60 65 60 115
+576,gothitelle,psychic,70 55 95 95 110 65
+579,reuniclus,psychic,110 65 75 125 85 30
+581,swanna,water flying,75 87 63 87 63 98
+584,vanilluxe,ice,71 95 85 110 95 79
+586,sawsbuck,normal grass,80 100 70 60 70 95
+587,emolga,electric flying,55 75 60 75 60 103
+589,escavalier,bug steel,70 135 105 60 105 20
+591,amoonguss,grass poison,114 85 70 85 80 30
+593,jellicent,water ghost,100 60 70 85 105 60
+594,alomomola,water,165 75 80 40 45 65
+596,galvantula,bug electric,70 77 60 97 60 108
+598,ferrothorn,grass steel,74 94 131 54 116 20
+601,klinklang,steel,60 100 115 70 85 90
+604,eelektross,electric,85 115 80 105 80 50
+606,beheeyem,psychic,75 75 75 125 95 40
+609,chandelure,ghost fire,60 55 90 145 90 80
+612,haxorus,dragon,76 147 90 60 70 97
+614,beartic,ice,95 130 80 70 80 50
+615,cryogonal,ice,80 50 50 95 135 105
+617,accelgor,bug,80 70 40 100 60 145
+618,stunfisk,ground electric,109 66 84 81 99 32
+620,mienshao,fighting,65 125 60 95 60 105
+621,druddigon,dragon,77 120 90 60 90 48
+623,golurk,ground ghost,89 124 80 55 80 55
+625,bisharp,dark steel,65 125 100 60 70 70
+626,bouffalant,normal,95 110 95 40 95 55
+628,braviary,normal flying,100 123 75 57 75 80
+630,mandibuzz,dark flying,110 65 105 55 95 80
+631,heatmor,fire,85 97 66 105 66 65
+632,durant,bug steel,58 109 112 48 48 109
+635,hydreigon,dark dragon,92 105 90 125 90 98
+637,volcarona,bug fire,85 60 65 135 105 100
+638,cobalion,steel fighting,91 90 129 90 72 108
+639,terrakion,rock fighting,91 129 90 72 90 108
+640,virizion,grass fighting,91 90 72 90 129 108
+641,tornadus,flying,79 115 70 125 80 111
+642,thundurus,electric flying,79 115 70 125 80 111
+645,landorus,ground flying,89 125 90 115 80 101
+646,kyurem,dragon ice,125 130 90 130 90 95
+647,keldeo,water fighting,91 72 90 129 90 108
+648,meloetta,normal psychic,100 77 77 128 128 90

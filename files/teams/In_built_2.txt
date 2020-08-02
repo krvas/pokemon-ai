@@ -1,0 +1,42 @@
+Tyranitar
+EVs: HP 0/atk 92/def 252/spA 0/spD 92/spd 72
+- Crunch
+- Stone Edge
+- Earthquake
+- Fire Blast
+
+Ferrothorn
+EVs: HP 252/atk 0/def 0/spA 48/spD 0/spd 208
+- Power Whip
+- Gyro Ball
+- Toxic
+- Protect
+
+Landorus
+EVs: HP 0/atk 252/def 4/spA 0/spD 252/spd 0
+- Earth Power
+- Stone Edge
+- Sludge Wave
+- Psychic
+
+Volcarona
+EVs: HP 72/atk 184/def 0/spA 0/spD 252/spd 0
+- Fiery Dance
+- Bug Buzz
+- Roost
+- Quiver Dance
+
+Terrakion
+EVs: HP 4/atk 252/def 252/spA 0/spD 0/spd 0
+- Stone Edge
+- Close Combat
+- Swords Dance
+- Earthquake
+
+Starmie
+EVs: HP 252/atk 252/def 0/spA 0/spD 4/spd 0
+- Scald
+- Ice Beam
+- Psyshock
+- Recover
+
